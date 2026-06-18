@@ -42,8 +42,8 @@
 ### Statistics
 
 * Total Problems Solved: 4
-* Easy: 4
-* Medium: 0
+* Easy: 3
+* Medium: 1
 * Hard: 0
 
 ### Goal
