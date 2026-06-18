@@ -19,7 +19,8 @@
 
 ## Hashing
 
-* [ ]
+- [x] Contains Duplicate (LC-217)
+- [x] Valid Anagram (LC-242)
 
 ## Linked List
 
@@ -41,8 +42,8 @@
 
 ### Statistics
 
-* Total Problems Solved: 4
-* Easy: 3
+* Total Problems Solved: 6
+* Easy: 5
 * Medium: 1
 * Hard: 0
 
