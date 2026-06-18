@@ -15,7 +15,7 @@
 
 ## Arrays
 
-* [ ]
+* [x] Frequency of the Most Frequent Element (LC-1838)
 
 ## Hashing
 
@@ -42,9 +42,9 @@
 
 ### Statistics
 
-* Total Problems Solved: 6
+* Total Problems Solved: 7
 * Easy: 5
-* Medium: 1
+* Medium: 2
 * Hard: 0
 
 ### Goal
