@@ -16,6 +16,8 @@
 ## Arrays
 
 * [x] Frequency of the Most Frequent Element (LC-1838)
+* [x] Check if Array Is Sorted and Rotated (LC-1752)
+
 
 ## Hashing
 
@@ -42,8 +44,8 @@
 
 ### Statistics
 
-* Total Problems Solved: 7
-* Easy: 5
+* Total Problems Solved: 8
+* Easy: 6
 * Medium: 2
 * Hard: 0
 
